@@ -1,0 +1,13 @@
+{
+    "contract_id": "bodhi.pilot.v1",
+    "identity": "100048777766367/pilot",
+    "genesis_root": "100048777766367/contract",
+    "archetype": "ACTION_GOLEM",
+    "role": "CONVEYOR_MOTOR_ORCHESTRATOR",
+    "network_partners": {
+        "capsule": "100048777766367/capsule",
+        "switch": "100048777766367/switch",
+        "contract": "100048777766367/contract"
+    },
+    "io_specification": "I/O (CONVEYOR_MOTOR_ORCHESTRATOR)"
+}
